@@ -6,3 +6,6 @@ the concept better and is tailored to prepare them for their Board exams.
 # Tools used
 - Language: Python
 - Packages used: Streamlit, Numpy, Matplotlib
+
+# Survey
+https://forms.gle/4vXn5J7DyteraSSv5
